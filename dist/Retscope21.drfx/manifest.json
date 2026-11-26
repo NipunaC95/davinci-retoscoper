@@ -1,0 +1,19 @@
+{
+  "name": "Retscope 21",
+  "version": "1.0.0",
+  "minimum_resolve": "21.0",
+  "maximum_resolve": "21.2+",
+  "editions": [
+    "Free",
+    "Studio"
+  ],
+  "type": "Fusion Macro / DRFX",
+  "entry": "Effects/Retscope/Retscope.setting",
+  "free_edition_compatible": true,
+  "excluded_technologies": [
+    "Python Scripting",
+    "Workflow Integrations",
+    "DCTL",
+    "Lua FFI"
+  ]
+}
